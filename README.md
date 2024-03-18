@@ -36,4 +36,4 @@ Contributions are welcome! Feel free to submit issues or pull requests if you fi
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+All rights reserved to Miriam Kraus mk6764576@gmail.com
